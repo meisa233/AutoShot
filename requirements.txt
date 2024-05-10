@@ -1,0 +1,8 @@
+torch
+torchaudio
+torchvision
+einop
+matplotlib
+ffmpeg-python
+opencv-python
+pillow
